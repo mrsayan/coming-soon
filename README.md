@@ -1,6 +1,12 @@
-# Coming Soon Template
+# Coming Soon Template 
+___
 
----
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2c03a43-1d8a-4c87-9313-1746ad5609a6/deploy-status)](https://coming-soon-react.netlify.app)
+
+___
+
+
+
 
 ### A minimal coming soon page, built using [create-react-app](https://github.com/facebook/create-react-app).
 
